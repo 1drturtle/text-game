@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "type": "choice",
+  "intro": "Make a choice",
+  "choices": [
+    {
+      "desc": "Example Choice 1",
+      "outcome": 2
+    },
+    {
+      "desc": "Example Choice 2",
+      "outcome": 3
+    },
+    {
+      "desc": "Example Choice 3",
+      "outcome": 4
+    }
+  ]
+}
